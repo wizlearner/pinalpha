@@ -1,3 +1,17 @@
+
+https://dlopuch.github.io/venture-dealr/
+
+
+
+
+https://nbviewer.jupyter.org/github/QuantEcon/game-theory-notebooks/blob/master/game_theory_py.ipynb
+
+
+
+
+
+
+
 ## Stage1: Data Extraction
 
 # Python for PDF
